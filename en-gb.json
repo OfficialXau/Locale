@@ -84,7 +84,8 @@
         "Settings.FavoritesSettings": "Favourites",
 
         "Dummy": "Dummy"
-        
+
+        "Help.Modal.Socialize": "I want to socialise...",
         "Help.GettingStarted.AvatarBasics.CreatingAFolder.Content": "Your Dashboard has many tabs and things you can do with it. One of these things is being able to save items and avatars to your personal <b><color=hero.yellow>Inventory</closeall>. Regarding saving items and other things on your time here in {appName}, organisation is key to a good inventory, so first you'll make a folder to keep your avatar in.<br><br>To do this, in the assortment of buttons at the top of the Inventory screen, press the <sprite name=SaveIcon> <b><color=hero.cyan>Create Folder</closeall> button. Give your folder a name and select <b><color=hero.green>Create</closeall> to make it - you'll automatically be placed inside that folder.",
         "Help.GettingStarted.AvatarBasics.Favoriting": "Favouriting",
         "Help.GettingStarted.AvatarBasics.Favoriting.Content": "To <b><color=hero.orange>Favourite</closeall> - or make default - an avatar, click once on the avatar {is_desktop, select, True {} other {with your <b><color=hero.purple>{Primary_Input}</closeall> }}to select it, then click the <sprite name=LocationPinIcon> <b><color=hero.orange>Favourite Avatar</closeall> button at the top of your Inventory window. Your favourite avatar will appear in your Inventory with a pink background. If you want to un-favourite an avatar, select it and press the <sprite name=LocationPinIcon> <b><color=hero.orange>Favourite Avatar</closeall> button again.",
